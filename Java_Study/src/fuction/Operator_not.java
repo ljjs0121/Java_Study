@@ -13,7 +13,7 @@ public class Operator_not {
 		if (!false) {
 				System.out.println(2);
 		}
-		// false 앞에 !가 붙기 때문에 true로 되서 실행하면 2 가 출력된다.
+		// false 앞에 !가 붙기 때문에 true로 되서 실행하면 2 가 출력된다
 	}
 
 }
