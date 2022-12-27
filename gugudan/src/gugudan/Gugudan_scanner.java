@@ -1,3 +1,4 @@
+package gugudan;
 import java.util.Scanner; 
 
 public class Gugudan_scanner {

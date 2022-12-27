@@ -1,3 +1,4 @@
+package gugudan;
 
 public class Gugudan_변수 {
 	public static void main(String[] args) {

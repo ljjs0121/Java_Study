@@ -1,3 +1,4 @@
+package gugudan;
 
 public class Gugudan_Loop {
 		public static void main(String[] args) {
