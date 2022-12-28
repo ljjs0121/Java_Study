@@ -1,9 +1,10 @@
 package gugudan;
+
 import java.util.Scanner;
+
 public class Gugudan_if {
 
 	public static void main(String[] args) {
-			// 8단
 			System.out.println("구구단 중 출력할 단은? : ");
 			Scanner scanner = new Scanner(System.in);
 			int number = scanner.nextInt();
