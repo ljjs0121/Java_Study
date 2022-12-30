@@ -1,5 +1,5 @@
 
-public class basic_VarEx4 {
+public class VarEx4 {
 	/*
 	 * 자바의 정석 연습문제 2-8
 	 */

@@ -1,5 +1,5 @@
 
-public class basic_VarEx3 {
+public class VarEx3 {
 
 	public static void main(String[] args) {
 		System.out.println("풀이하기 전의 값");

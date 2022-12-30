@@ -1,5 +1,5 @@
 
-public class basic_VarEx1 {
+public class VarEx1 {
 
 	public static void main(String[] args) {
 		int i = 30; // 정수형

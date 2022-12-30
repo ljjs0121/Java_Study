@@ -1,5 +1,5 @@
 
-public class basic_VarEx2 {
+public class VarEx2 {
 
 	public static void main(String[] args) {
 		final int MAX_VALUE;
