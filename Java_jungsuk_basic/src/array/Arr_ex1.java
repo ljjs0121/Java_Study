@@ -31,6 +31,7 @@ public class Arr_ex1 {
 		System.out.println(Arrays.toString(chArr));
 		System.out.println(iArr3); // 실행할 때 마다 달라질 수 있다.
 		System.out.println(chArr);
+		
 	}	
 
 }

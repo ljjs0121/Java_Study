@@ -23,6 +23,7 @@ public class Arr_ex2 {
 		
 		System.out.println("총합 : "+ sum);
 		System.out.println("평균 : "+ average);
+		
 	}
 
 }

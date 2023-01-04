@@ -15,6 +15,7 @@ public class Arr_2 {
 		}
 		System.out.println(Arrays.toString(iArr)); // 간단하게 배열 출력 하는 방법
 		// Arary.toString() 을 사용하려면, import java.util.Arrays;를 추가해야한다. 단축키 ctrl + shift + o
+		
 	}
 	
 }

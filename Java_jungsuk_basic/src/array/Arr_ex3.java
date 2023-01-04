@@ -18,7 +18,7 @@ public class Arr_ex3 {
 				min = score[i];
 			}
 			
-		}// end of for
+		} // end of for
 		System.out.println("최대값 :" + max);
 		System.out.println("최소값 :" + min);
 	

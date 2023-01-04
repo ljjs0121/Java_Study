@@ -18,6 +18,7 @@ public static void main(String[] args) {
 			numArr[n] = tmp;			// numArr[0]과 numArr[n]의 값을 서로 바꾸기 위해 임의의 변수 추가
 		}
 		System.out.println(Arrays.toString(numArr));
+	
 	}
 
 }

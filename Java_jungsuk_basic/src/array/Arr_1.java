@@ -26,6 +26,7 @@ public class Arr_1 {
 		for(int x = 0; x <score.length; x++) {
 			score[x] = x * 10 + 50;
 			System.out.println(score[x]);
+			
 		}
 	}
 }
