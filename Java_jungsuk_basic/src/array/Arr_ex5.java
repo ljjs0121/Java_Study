@@ -2,7 +2,7 @@ package array;
 
 public class Arr_ex5 {
 	/*
-	 * 배열 예제 4
+	 * 배열 예제 5
 	 *  로또 번호 만들기 예제
 	 */
 public static void main(String[] args) {
