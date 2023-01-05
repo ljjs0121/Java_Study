@@ -1,7 +1,5 @@
 package array;
 	
-import java.util.Arrays;
-	
 public class String_args {
 		/*
 		 * 커맨드 라인을 통해 입력받기 
