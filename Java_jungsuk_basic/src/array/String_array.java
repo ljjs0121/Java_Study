@@ -6,7 +6,7 @@ import java.util.Arrays;
 public class String_array {
 		/*
 		 * String 배열
-		 *  자료형의 기본값은 0 단, boolean은 true or false
+		 *  자료형의 기본값은 0 단, boolean은 false
 		 *  참조형의 기본값은 null
 		 */
 	public static void main(String[] args) {
