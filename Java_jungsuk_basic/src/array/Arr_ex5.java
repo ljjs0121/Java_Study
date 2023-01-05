@@ -1,7 +1,5 @@
 package array;
 
-import java.util.Arrays;
-
 public class Arr_ex5 {
 	/*
 	 * 배열 예제 4
@@ -29,7 +27,6 @@ public static void main(String[] args) {
 		// 배열 ball의 앞에서 부터 6개의 요소를 출력한다.
 		for (int i=0; i < 6; i++) 
 			System.out.printf("ball[%d]=%d%n",i, ball[i]);
-		
 	}
 
 }
