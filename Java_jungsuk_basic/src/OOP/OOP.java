@@ -14,7 +14,6 @@ public class OOP {
 //		t.channelDown();        // Tv인스턴스의 메소드 channelDown()을 호출
 		System.out.println("현재 채널은 " + t.channel  +" 입니다.");
 	}
-
 }
 
 class Tv {
