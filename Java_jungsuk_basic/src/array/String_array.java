@@ -13,5 +13,4 @@ public class String_array {
 		System.out.println(Arrays.toString(name));
 		// 출력 값 = null null null
 		}
-	
 	}

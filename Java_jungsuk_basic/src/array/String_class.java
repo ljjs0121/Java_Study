@@ -21,8 +21,6 @@ public class String_class {
 		System.out.println(str3); 
 		System.out.println(str4); // str3 와 같은 의미
 		
-		
-		
 	}
 	
-	}
+}
