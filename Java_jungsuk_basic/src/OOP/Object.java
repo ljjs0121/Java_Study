@@ -1,17 +1,20 @@
 package OOP;
 
-public class OOP {
+public class Object {
 	/*
 	 * 객체 생성 및 사용
 	 * 클래스명 변수명;
 	 * 변수명 = new 클래스명();
 	 */
 	public static void main(String[] args) {
+		/*
+		 * 예제 1
+		 */
 		Tv t;					// Tv인스턴스를 참조하기 위한 변수
 		t = new Tv();			// Tv인스턴스를 생성
 		t.channel = 7;			// Tv인스턴스의 멤버변수 channel의 값을 7로 한다. 
-		t.channelUp();			
-//		t.channelDown();        // Tv인스턴스의 메소드 channelDown()을 호출
+//		t.channelUp();			
+		t.channelDown();        // Tv인스턴스의 메소드 channelDown()을 호출
 		System.out.println("현재 채널은 " + t.channel  +" 입니다.");
 	}
 }
