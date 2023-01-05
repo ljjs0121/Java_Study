@@ -2,7 +2,7 @@ package array;
 
 import java.util.Arrays;
 
-public class String_ArrayEx1 {
+public class String_arrayEx1 {
 		/*
 		 * String 배열 
 		 * 가위바위보 게임 예제
