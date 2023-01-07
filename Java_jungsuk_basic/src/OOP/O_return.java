@@ -10,8 +10,6 @@ public class O_return {
 		mm.printgugudan(3);
 	
 		System.out.println("max(5L, 3L) = " + result);
-
-
 	}
 }
 
