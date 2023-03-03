@@ -1,5 +1,6 @@
 package variable;
 
+
 public class VarEx4 {
 	/*
 	 * 자바의 정석 연습문제 2-8
